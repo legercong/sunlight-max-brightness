@@ -6,6 +6,7 @@
 - 增益：滑条顶端 4095 → 面板绝对上限 4675，**稳定亮度约 +7%**
 - 常驻成本：亮屏时约 0.2 秒 CPU / 分钟，内存 PSS 约 95 MB
 - 需要 root。不修改系统分区，不覆盖任何框架文件
+- 作者：congcong（[@legercong](https://github.com/legercong)）
 
 > 关于"+30%"：那是采样到亮度渐变中途产生的错觉。本仓库只写实测值。
 
@@ -25,7 +26,7 @@
 ## 下载与安装
 
 1. 确认已 root 并装了 KernelSU
-2. 下载 `install/sunlight-max-brightness-v2.1.zip`（或 Releases 里的同名文件）
+2. 下载 `install/sunlight-max-brightness-v2.2.zip`（或 Releases 里的同名文件）
 3. KernelSU 管理器 → 模块 → 安装模块 → 选这个 zip → 重启
 4. 装完不需要任何操作，模块默认就是开启状态
 
