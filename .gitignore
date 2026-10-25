@@ -1,0 +1,5 @@
+*.class
+classes.dex
+*.tgz
+*.bak
+.DS_Store
