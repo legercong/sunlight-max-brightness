@@ -3,6 +3,7 @@
 *.conf text eol=lf
 module.prop text eol=lf
 *.java text eol=lf
-*.txt text eol=crlf
+*.txt text eol=lf
+*.md text eol=lf
 *.jar binary
 *.zip binary
