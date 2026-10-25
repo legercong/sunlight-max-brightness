@@ -1,0 +1,8 @@
+* text=auto
+*.sh text eol=lf
+*.conf text eol=lf
+module.prop text eol=lf
+*.java text eol=lf
+*.txt text eol=crlf
+*.jar binary
+*.zip binary
