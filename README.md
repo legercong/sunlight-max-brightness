@@ -6,9 +6,7 @@
 - 增益：滑条顶端 4095 → 面板绝对上限 4675，**稳定亮度约 +7%**
 - 常驻成本：亮屏时约 0.2 秒 CPU / 分钟，内存 PSS 约 95 MB
 - 需要 root。不修改系统分区，不覆盖任何框架文件
-- 作者：legercong(https://github.com/legercong)）（by qwen3.8 flash）
-
-> 关于"+30%"：那是采样到亮度渐变中途产生的错觉。本仓库只写实测值。
+- 作者：legercong(https://github.com/legercong)（by qwen3.8 flash）
 
 ---
 
